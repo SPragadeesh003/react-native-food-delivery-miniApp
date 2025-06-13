@@ -1,7 +1,7 @@
 # React-native-food-delivery-miniApp
 A simple, clean food delivery application built with React Native, Expo, and Firebase. This app provides core functionalities like user authentication, a list of food items fetched from a backend, and a shopping cart with quantity management.
 
-![App Screenshot](https://github.com/SPragadeesh003/react-native-food-delivery-miniApp/blob/main/App_SS.jpg)
+![App Screenshot](https://github.com/SPragadeesh003/react-native-food-delivery-miniApp/blob/main/Home_screen.jpg)
 
 ---
 
