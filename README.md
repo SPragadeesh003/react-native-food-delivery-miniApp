@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 # React-native-food-delivery-miniApp
 A simple, clean food delivery application built with React Native, Expo, and Firebase. This app provides core functionalities like user authentication, a list of food items fetched from a backend, and a shopping cart with quantity management.
 
-![App Screenshot]()
+![App Screenshot](https://github.com/SPragadeesh003/react-native-food-delivery-miniApp/blob/main/App_SS.jpg)
 
 ---
 
@@ -46,8 +45,8 @@ Before proceeding, ensure that your development environment meets the following 
 First, obtain a local copy of the project by cloning the repository.
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone https://github.com/SPragadeesh003/react-native-food-delivery-miniApp
+cd react-native-food-delivery-miniApp
 ```
 
 ### 3. Install Dependencies
@@ -126,5 +125,3 @@ FoodDeliveryApp/
 └── ...
 ```
 =======
-# react-native-food-delivery-miniApp
->>>>>>> aafcaf81e3458d6d538c0ce2c7445fa75a5b0125
